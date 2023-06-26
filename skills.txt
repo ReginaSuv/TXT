@@ -1,0 +1,6 @@
+Skills: 
+1. terminal
+2. json
+3. txt
+4. xml
+5. sql
