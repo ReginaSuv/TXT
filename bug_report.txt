@@ -1,9 +1,7 @@
-{
-  "ID" : "",
-  "Severety" : "",
-  "Environment" : "",
-  "Title" : "",
-  "Steps" : ["", "", ""],
-  "Expected results" : "",
-  "Actual results" : ""
-}
+ID:
+Severety:
+Environment:
+Title:
+Steps:
+Expected results:
+Actual results:
