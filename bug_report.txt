@@ -1,10 +1,9 @@
-Table title with day of week and date is disappeared after click the sorter
-Steps:
-1. Navigate to capital.com 
-2. Hover over the menu section [New and Analysis]
-3. Click menu item [Economic calendar]
-4. Choose any button [Earnings/Dividends/Splits/IPO/Holidays] in the tabs bar
-5. Click on any sorter «Company/Dividend/Payment date/Exchange/Country/Price High/Price low/Final price/Total shares/Filling date»
-Environment:
-1. MacOS Monterey 12.5
-2. iPhone 13 Pro Max Safari 15.6.1
+{
+  "ID" : "",
+  "Severety" : "",
+  "Environment" : "",
+  "Title" : "",
+  "Steps" : ["", "", ""],
+  "Expected results" : "",
+  "Actual results" : ""
+}
